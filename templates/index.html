@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Zihan Fang, Computer Science Ph.D. candidate at Vanderbilt University. Human-centered AI, software engineering, and computing education.">
+  <meta name="author" content="Zihan Fang">
+  <meta name="color-scheme" content="light dark">
+  <title>Zihan Fang | Vanderbilt University</title>
+  <link rel="canonical" href="https://littlehousezh.github.io/">
+  <link rel="icon" href="/img/favicon.png">
+  <script src="/js/theme.js"></script>
+  <link rel="stylesheet" href="/css/index.css">
+  <script src="/js/main.js" defer></script>
+  <link rel="preload" as="image" href="$hover_photo">
+  <script src="/js/portrait.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="wordmark" href="#about"><strong>Zihan</strong> Fang</a>
+      <nav aria-label="Main navigation">
+        <ul class="nav-links">
+          <li><a href="#about" aria-current="location">About</a></li>
+          <li><a href="#news">News</a></li>
+          <li><a href="#publications">Publications</a></li>
+          <li><a href="#awards">Awards</a></li>
+          <li><a href="#service">Service</a></li>
+          <li><a href="#teaching">Teaching</a></li>
+          <li><a href="$cv" target="_blank" rel="noopener">CV <span aria-hidden="true">↗</span></a></li>
+        </ul>
+      </nav>
+      <button class="theme-toggle" type="button" hidden aria-label="Switch to dark mode" aria-pressed="false" title="Switch color theme">
+        <svg class="moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M20.6 14.3A8.7 8.7 0 0 1 9.7 3.4a8.7 8.7 0 1 0 10.9 10.9Z"/></svg>
+        <svg class="sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2m0 16v2M2 12h2m16 0h2M5 5l1.5 1.5m11 11L19 19M5 19l1.5-1.5m11-11L19 5"/></svg>
+      </button>
+    </div>
+  </header>
+  <main id="main" class="container">
+    <section id="about" aria-labelledby="name">
+      <span id="About-me" class="legacy-anchor"></span>
+      <div class="intro-heading">
+        <p class="eyebrow">Computer Science · Vanderbilt University</p>
+        <h1 id="name"><strong>Zihan</strong> Fang</h1>
+        <p class="position">$position · <a href="https://www.vanderbilt.edu/">$affiliation</a></p>
+      </div>
+      <div class="about-grid">
+        <div class="biography">$biography
+          <p class="job-market">$job_market</p>
+          <div class="profile-links" aria-label="Academic profiles">$profile_links</div>
+        </div>
+        <figure class="portrait">
+          <div class="portrait-frame" tabindex="0" role="img" aria-label="Portrait of Zihan Fang. Hover or focus to reveal a reading rabbit illustration.">
+            <img src="$photo" alt="" aria-hidden="true" width="560" height="700" fetchpriority="high" draggable="false">
+            <img class="portrait-alternate" src="$hover_photo" alt="" aria-hidden="true" width="560" height="700" decoding="async" draggable="false">
+          </div>
+          <figcaption><span><a href="https://www.vanderbilt.edu/">Vanderbilt University</a></span><span>$location</span><a href="mailto:$email">$email</a></figcaption>
+        </figure>
+      </div>
+      <div id="Experience" class="education"><h2>Education</h2><ul>$education</ul></div>
+    </section>
+    <section id="news" class="page-section" aria-labelledby="news-heading">
+      <div class="section-heading"><h2 id="news-heading">News</h2><span class="section-note" id="news-hint">Latest first · Scroll for earlier updates <span aria-hidden="true">↓</span></span></div>
+      <div class="news-scroll" tabindex="0" role="region" aria-label="News from 2026 to 2023" aria-describedby="news-hint">$news</div>
+    </section>
+    <section id="publications" class="page-section" aria-labelledby="publications-heading">
+      <span id="Publications" class="legacy-anchor"></span>
+      <div class="section-heading"><h2 id="publications-heading">Publications</h2></div>
+      $publications
+    </section>
+    <section id="awards" class="page-section" aria-labelledby="awards-heading">
+      <span id="Awards" class="legacy-anchor"></span>
+      <div class="section-heading"><h2 id="awards-heading">Awards &amp; Honors</h2></div>
+      <ul class="awards-list">$awards</ul>
+    </section>
+    <section id="service" class="page-section" aria-labelledby="service-heading">
+      <span id="Service" class="legacy-anchor"></span>
+      <div class="section-heading"><h2 id="service-heading">Academic Service</h2></div>
+      <ul class="service-list">$service</ul>
+    </section>
+    <section id="teaching" class="page-section" aria-labelledby="teaching-heading">
+      <div class="section-heading"><h2 id="teaching-heading">Teaching</h2></div>
+      <ul class="teaching-list">$teaching</ul>
+    </section>
+  </main>
+  <footer class="site-footer"><div class="container footer-inner"><div><a class="footer-name" href="#about">Zihan Fang</a><p>Computer Science · Vanderbilt University</p><a href="mailto:$email">$email</a></div><div class="footer-right"><div class="footer-links">$footer_links</div><p>© $year Zihan Fang · Inspired by <a href="https://alshedivat.github.io/al-folio/">al-folio</a></p></div></div></footer>
+</body>
+</html>

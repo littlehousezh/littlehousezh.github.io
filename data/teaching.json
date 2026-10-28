@@ -1,0 +1,30 @@
+[
+  {
+    "code": "CS3892/5892",
+    "course": "Designing Computing for Learning",
+    "terms": "Fall 2026",
+    "role": "Teaching Assistant",
+    "institution": "Vanderbilt University"
+  },
+  {
+    "code": "CS4278/5278",
+    "course": "Principles of Software Engineering",
+    "terms": "Spring 2024",
+    "role": "Teaching Assistant",
+    "institution": "Vanderbilt University"
+  },
+  {
+    "code": "CS3265",
+    "course": "Database Management Systems",
+    "terms": "Fall 2023",
+    "role": "Teaching Assistant",
+    "institution": "Vanderbilt University"
+  },
+  {
+    "code": "DS3100",
+    "course": "Fundamentals of Data Science",
+    "terms": "Spring 2023 · Fall 2022",
+    "role": "Teaching Assistant",
+    "institution": "Vanderbilt University"
+  }
+]

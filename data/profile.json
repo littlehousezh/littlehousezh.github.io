@@ -1,0 +1,60 @@
+{
+  "name": "Zihan Fang",
+  "position": "Ph.D. candidate in Computer Science",
+  "affiliation": "Vanderbilt University",
+  "photo": "/img/profile.png",
+  "email": "zihan.fang@vanderbilt.edu",
+  "cv": "/attaches/CV.pdf",
+  "biography": [
+    "I am a Ph.D. candidate in Computer Science at [Vanderbilt University](https://www.vanderbilt.edu/), guided by [Dr. Yu Huang](https://yuhuang-lab.github.io/). I earned my Bachelor’s degree in Information Management from [Soochow University](http://eng.suda.edu.cn/), and my Master’s degree in Data Science from Vanderbilt University.",
+    "**My research is at the intersection of human-centered AI, software engineering, and computing education. Broadly, I'm interested in understanding how people develop programming expertise and how we can design AI systems that help them learn, participate, and become more skilled.**",
+    "I combine large-scale repository mining, cognitive and behavioral modeling, and reinforcement learning to understand how people develop expertise and translate these insights into AI-supported programming systems and immersive learning environments.",
+    "Feel free to [contact me](mailto:zihan.fang@vanderbilt.edu) if you are interested in my work!"
+  ],
+  "job_market": "I am on the academic job market and welcome faculty opportunities worldwide!",
+  "links": [
+    {
+      "label": "Email",
+      "url": "mailto:zihan.fang@vanderbilt.edu"
+    },
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?hl=en&user=s82MO1wAAAAJ"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/littlehousezh"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://linkedin.com/in/zihan-fang-51a9571a7"
+    },
+    {
+      "label": "CV",
+      "url": "/attaches/CV.pdf"
+    },
+    {
+      "label": "X",
+      "url": "https://x.com/FANGZIHAN2"
+    }
+  ],
+  "education": [
+    {
+      "term": "2023–present",
+      "degree": "Ph.D. in Computer Science",
+      "institution": "Vanderbilt University"
+    },
+    {
+      "term": "2021–2023",
+      "degree": "M.S. in Data Science",
+      "institution": "Vanderbilt University"
+    },
+    {
+      "term": "2016–2020",
+      "degree": "B.S. in Information Management",
+      "institution": "Soochow University"
+    }
+  ],
+  "hover_photo": "/img/profile-hover.jpg",
+  "location": "A4118, 17th & Horton, Nashville, TN"
+}

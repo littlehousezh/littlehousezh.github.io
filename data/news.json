@@ -1,0 +1,42 @@
+[
+  {
+    "year": 2026,
+    "items": [
+      "✈️ **Oct:** Attended **ASE** in Munich, Germany! Great to reconnect with colleagues and exchange ideas with the software engineering community.",
+      "Received the **ACM SIGSOFT CAPS Travel Award** to support my conference participation.",
+      "🎉 **ASE:** Two papers accepted! Our work on *inclusive programming support for novices with dyslexia* and our collaborative study *Programming by Chat*.",
+      "**FSE:** Two collaborative papers published: *ScanCoder: Leveraging Human Attention Patterns to Enhance LLMs for Code* and *Stop the Retrieval Thrash: Brain-Guided Episodic Memory for Repository-Scale Coding Agents* (HumanAISE).",
+      "✈️ **Jun:** Attended **EASE 2026** in Glasgow, Scotland, UK!",
+      "**EASE:** Our collaborative paper *Locating Software Vulnerabilities With Static Analyzers: How Far Are We?* was published.",
+      "**CSCW:** Our paper *Contribution Patterns in Open Source Software for Social Good: Dynamics, Individuals, and Impact* was accepted!",
+      "**TOSEM:** Our eye-tracking study *Novices Comprehending Functional vs. Imperative Programs* was published.",
+      "**IEEE TSE:** Our research on the feasibility of webcam-based eye tracking for code comprehension was published.",
+      "🎓 **Apr:** Successfully presented my Ph.D. dissertation proposal at Vanderbilt University!"
+    ]
+  },
+  {
+    "year": 2025,
+    "items": [
+      "**ASE (NIER):** Our collaborative paper *CodeACT-R: A Cognitive Simulation Framework for Human Attention in Code Reading* was accepted.",
+      "✈️ **Jun:** Attended **FSE 2025** in Trondheim, Norway.",
+      "🎓 **Jun:** Helped support the inaugural [**HumanAISE 2025**](https://humanai4se.github.io/) workshop, co-located with FSE 2025.",
+      "**FSE (SEET):** Our paper *A Comparative Study on ChatGPT and Checklist as Support Tools for Unit Testing Education* was accepted!",
+      "Received the **Vanderbilt Ignite Grant** and **LIVE Horizon Grant** to support research and educational innovation."
+    ]
+  },
+  {
+    "year": 2024,
+    "items": [
+      "🏆 Received the **C. F. Chen Best Paper Award** from Vanderbilt University's Department of Computer Science.",
+      "Awarded the **Richard Bennett/Dorothy Danforth Compton Prize Scholarship**.",
+      "**CSCW:** Our paper *\"Math Is a Pain!\": Understanding Challenges and Needs of the Machine Learning Community on Stack Overflow* was published."
+    ]
+  },
+  {
+    "year": 2023,
+    "items": [
+      "🏆 **FSE:** Our paper *A Four-Year Study of Student Contributions to OSS vs. OSS4SG with a Lightweight Intervention* received the **ACM SIGSOFT Distinguished Paper Award**!",
+      "Received an **NSF Student Travel Award**."
+    ]
+  }
+]

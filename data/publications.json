@@ -1,0 +1,120 @@
+[
+  {
+    "id": "pub13",
+    "title": "Unclaimed Territory: Analyzing Subdomain Takeover Risks in GitHub Pages",
+    "venue": "ICSE",
+    "year": 2027,
+    "link": null,
+    "pdf": "/attaches/pub13.pdf"
+  },
+  {
+    "id": "pub11",
+    "title": "Toward Inclusive Programming Support for Novice Programmers with Dyslexia: Insights from a Comparative Study",
+    "venue": "ASE",
+    "year": 2026,
+    "link": "https://doi.org/10.1145/3832783.3834414",
+    "pdf": "https://dl.acm.org/doi/pdf/10.1145/3832783.3834414",
+    "missing_pdf_path": "/attaches/pub11.pdf",
+    "pdf_source": "Google Scholar profile: https://scholar.google.com/citations?user=s82MO1wAAAAJ&hl=en"
+  },
+  {
+    "id": "pub10",
+    "title": "Programming by Chat: A Large-Scale Behavioral Analysis of 11,579 Real-World AI-Assisted IDE Sessions",
+    "venue": "ASE",
+    "year": 2026,
+    "link": "https://dl.acm.org/doi/abs/10.1145/3832783.3834377",
+    "pdf": "https://dl.acm.org/doi/pdf/10.1145/3832783.3834377",
+    "missing_pdf_path": "/attaches/pub10.pdf",
+    "pdf_source": "Google Scholar profile: https://scholar.google.com/citations?user=s82MO1wAAAAJ&hl=en"
+  },
+  {
+    "id": "pub9",
+    "title": "Novices Comprehending Functional vs. Imperative Programs: An Eye-Tracking Study",
+    "venue": "TOSEM",
+    "year": 2026,
+    "link": "https://doi.org/10.1145/3815582",
+    "pdf": "https://dl.acm.org/doi/pdf/10.1145/3815582",
+    "missing_pdf_path": "/attaches/pub9.pdf",
+    "pdf_source": "Google Scholar profile: https://scholar.google.com/citations?user=s82MO1wAAAAJ&hl=en"
+  },
+  {
+    "id": "pub12",
+    "title": "Stop the Retrieval Thrash: Brain-Guided Episodic Memory for Repository-Scale Coding Agents",
+    "venue": "FSE Companion",
+    "year": 2026,
+    "link": "https://doi.org/10.1145/3803437.3806703",
+    "pdf": "https://dl.acm.org/doi/pdf/10.1145/3803437.3806703",
+    "missing_pdf_path": "/attaches/pub12.pdf",
+    "pdf_source": "Google Scholar profile: https://scholar.google.com/citations?user=s82MO1wAAAAJ&hl=en"
+  },
+  {
+    "id": "pub8",
+    "title": "ScanCoder: Leveraging Human Attention Patterns to Enhance LLMs for Code",
+    "venue": "FSE",
+    "year": 2026,
+    "link": "https://doi.org/10.1145/3808150",
+    "pdf": "https://dl.acm.org/doi/pdf/10.1145/3808150",
+    "missing_pdf_path": "/attaches/pub8.pdf",
+    "pdf_source": "Google Scholar profile: https://scholar.google.com/citations?user=s82MO1wAAAAJ&hl=en"
+  },
+  {
+    "id": "pub7",
+    "title": "Locating Software Vulnerabilities With Static Analyzers: How Far Are We?",
+    "venue": "EASE",
+    "year": 2026,
+    "link": "https://conf.researchr.org/details/ease-2026/ease-2026-research-papers/25/Locating-Software-Vulnerabilities-With-Static-Analyzers-How-Far-Are-We-",
+    "pdf": null,
+    "missing_pdf_path": "/attaches/pub7.pdf"
+  },
+  {
+    "id": "pub6",
+    "title": "Investigating the Feasibility of Conducting Webcam-Based Eye-Tracking Studies in Code Comprehension",
+    "venue": "TSE",
+    "year": 2026,
+    "link": "https://doi.org/10.1109/TSE.2026.3651615",
+    "pdf": "https://ieeexplore.ieee.org/iel8/32/11440029/11329486.pdf",
+    "missing_pdf_path": "/attaches/pub6.pdf",
+    "pdf_source": "Google Scholar profile: https://scholar.google.com/citations?user=s82MO1wAAAAJ&hl=en"
+  },
+  {
+    "id": "pub5",
+    "title": "Contribution Patterns in Open Source Software for Social Good: Dynamics, Individuals, and Impact",
+    "venue": "CSCW",
+    "year": 2026,
+    "link": "https://doi.org/10.1145/3788046",
+    "pdf": "/attaches/pub5.pdf"
+  },
+  {
+    "id": "pub4",
+    "title": "CodeACT-R: A Cognitive Simulation Framework for Human Attention in Code Reading",
+    "venue": "ASE · NIER",
+    "year": 2025,
+    "link": null,
+    "pdf": "/attaches/pub4.pdf"
+  },
+  {
+    "id": "pub3",
+    "title": "A Comparative Study on ChatGPT and Checklist as Support Tools for Unit Testing Education",
+    "venue": "FSE · SEET",
+    "year": 2025,
+    "link": "https://doi.org/10.1145/3696630.3727244",
+    "pdf": "/attaches/pub3.pdf"
+  },
+  {
+    "id": "pub2",
+    "title": "“Math Is a Pain!”: Understanding Challenges and Needs of the Machine Learning Community on Stack Overflow",
+    "venue": "CSCW",
+    "year": 2024,
+    "link": "https://doi.org/10.1145/3686990",
+    "pdf": "/attaches/pub2.pdf"
+  },
+  {
+    "id": "pub1",
+    "title": "A Four-Year Study of Student Contributions to OSS vs. OSS4SG with a Lightweight Intervention",
+    "venue": "FSE",
+    "year": 2023,
+    "link": "https://doi.org/10.1145/3611643.3616250",
+    "pdf": "/attaches/pub1.pdf",
+    "award": "ACM SIGSOFT Distinguished Paper Award"
+  }
+]
